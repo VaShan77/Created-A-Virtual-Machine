@@ -3,6 +3,6 @@ Project was created to demostrate my knowledge and skills in Azure
 
 # Step by Step tasks use:
 1. Created a Resource Group- Named rg “RG-USE-NxtCloud”
-!Alt text Screenshot 2024-03-04 080408.png
+
 
 
